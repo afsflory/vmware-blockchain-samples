@@ -1,4 +1,4 @@
-# VMBC Ethereum Developer Kit
+# VMware Blockchain for Ethereum Developer Kit
 
 *** **Please note that the developer kit is under tech preview and functionality is subject to change** ***
 
